@@ -1,0 +1,19 @@
+{
+  "name": "first-node",
+  "version": "1.0.0",
+  "description": "This is a intro to node project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christian17s/firstproj.git"
+  },
+  "author": "Christian Silveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christian17s/firstproj/issues"
+  },
+  "homepage": "https://github.com/christian17s/firstproj#readme"
+}
